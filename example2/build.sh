@@ -1,3 +1,3 @@
 #!/bin/bash
 
-g++ -std=c++14 main.cpp  -o example2
+g++ -std=c++14 main.cpp  -o bin
